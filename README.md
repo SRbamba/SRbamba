@@ -35,7 +35,5 @@ Este repositorio es mi proyecto central que valida mi experiencia en arquitectur
 
 | Vía | Enlace |
 | :--- | :--- |
-| **LinkedIn** | [Lucas Ibáñez](Tu_Enlace_de_LinkedIn) |
+| **LinkedIn** | [Lucas Ibáñez](https://www.linkedin.com/in/lucas-iba%C3%B1ez-55b646358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | **Email** | ibanezlucas390@gmail.com |
-
-**Instrucción Final:** Recuerda **anclar** (pin) tu repositorio `demo-app` en la sección de proyectos destacados de tu perfil de GitHub para que sea lo primero que vea el reclutador.
