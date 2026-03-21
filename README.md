@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Ingeniero de Plataformas (Backend & DevSecOps)
 
-Técnico en Informática (Próximo a graduarse) con 1 año de experiencia freelance y un perfil dual orientado a la **Ingeniería de Plataformas**. Me enfoco en el desarrollo de microservicios robustos con **Java/Spring Boot/Hibernate**, y garantizo la seguridad y la operatividad en producción mediante **DevOps (Docker, CI/CD)** y **Pentesting**.
+Técnico en Informática y un perfil dual orientado a Multiplataforma. Me enfoco en el desarrollo de microservicios robustos con **Java/Spring Boot/Hibernate**, y garantizo la seguridad y la operatividad en producción mediante **DevOps (Docker, CI/CD)** y **Pentesting**.
 
 ---
 
@@ -20,20 +20,9 @@ Aquí están las tecnologías clave que utilizo en mis proyectos y laboratorios:
 
 ---
 
-### 🚀 Proyecto Destacado: API Multimodular de Microservicios
-
-Este repositorio es mi proyecto central que valida mi experiencia en arquitectura distribuida.
-
-#### [Ver Proyecto en Detalle](https://github.com/SRbamba/demo-app)
-> **Arquitectura:** Desarrollado con el ecosistema de **Spring Cloud** y **Eureka Server** para el descubrimiento de servicios.
-> **Persistencia:** JPA/Hibernate, con un enfoque en la seguridad a nivel de código mediante **Spring Security** (futura implementación) y manejo eficiente del *boilerplate* con **Lombok**.
-> **Enfoque de Plataformas:** Próximamente se integrará el despliegue automático con **Docker** y **CI/CD** para una solución completa de Ingeniería de Plataformas.
-
----
-
 ### 🌐 Contáctame
 
 | Vía | Enlace |
 | :--- | :--- |
-| **LinkedIn** | [Lucas Ibáñez](https://www.linkedin.com/in/lucas-iba%C3%B1ez-55b646358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
+| **LinkedIn** | [Lucas Ibañez](https://www.linkedin.com/in/lucas-iba%C3%B1ez-55b646358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 | **Email** | ibanezlucas390@gmail.com |
